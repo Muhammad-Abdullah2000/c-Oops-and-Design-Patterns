@@ -1,0 +1,14 @@
+D:\c# Design Patterns\ConsoleAppOne\bin\Debug\net9.0\ConsoleAppOne.exe
+D:\c# Design Patterns\ConsoleAppOne\bin\Debug\net9.0\ConsoleAppOne.deps.json
+D:\c# Design Patterns\ConsoleAppOne\bin\Debug\net9.0\ConsoleAppOne.runtimeconfig.json
+D:\c# Design Patterns\ConsoleAppOne\bin\Debug\net9.0\ConsoleAppOne.dll
+D:\c# Design Patterns\ConsoleAppOne\bin\Debug\net9.0\ConsoleAppOne.pdb
+D:\c# Design Patterns\ConsoleAppOne\obj\Debug\net9.0\ConsoleAppOne.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# Design Patterns\ConsoleAppOne\obj\Debug\net9.0\ConsoleAppOne.AssemblyInfoInputs.cache
+D:\c# Design Patterns\ConsoleAppOne\obj\Debug\net9.0\ConsoleAppOne.AssemblyInfo.cs
+D:\c# Design Patterns\ConsoleAppOne\obj\Debug\net9.0\ConsoleAppOne.csproj.CoreCompileInputs.cache
+D:\c# Design Patterns\ConsoleAppOne\obj\Debug\net9.0\ConsoleAppOne.dll
+D:\c# Design Patterns\ConsoleAppOne\obj\Debug\net9.0\refint\ConsoleAppOne.dll
+D:\c# Design Patterns\ConsoleAppOne\obj\Debug\net9.0\ConsoleAppOne.pdb
+D:\c# Design Patterns\ConsoleAppOne\obj\Debug\net9.0\ConsoleAppOne.genruntimeconfig.cache
+D:\c# Design Patterns\ConsoleAppOne\obj\Debug\net9.0\ref\ConsoleAppOne.dll

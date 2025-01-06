@@ -1,0 +1,14 @@
+D:\c# Design Patterns\OOPS\Coupling\Coupling\bin\Debug\net9.0\Coupling.exe
+D:\c# Design Patterns\OOPS\Coupling\Coupling\bin\Debug\net9.0\Coupling.deps.json
+D:\c# Design Patterns\OOPS\Coupling\Coupling\bin\Debug\net9.0\Coupling.runtimeconfig.json
+D:\c# Design Patterns\OOPS\Coupling\Coupling\bin\Debug\net9.0\Coupling.dll
+D:\c# Design Patterns\OOPS\Coupling\Coupling\bin\Debug\net9.0\Coupling.pdb
+D:\c# Design Patterns\OOPS\Coupling\Coupling\obj\Debug\net9.0\Coupling.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# Design Patterns\OOPS\Coupling\Coupling\obj\Debug\net9.0\Coupling.AssemblyInfoInputs.cache
+D:\c# Design Patterns\OOPS\Coupling\Coupling\obj\Debug\net9.0\Coupling.AssemblyInfo.cs
+D:\c# Design Patterns\OOPS\Coupling\Coupling\obj\Debug\net9.0\Coupling.csproj.CoreCompileInputs.cache
+D:\c# Design Patterns\OOPS\Coupling\Coupling\obj\Debug\net9.0\Coupling.dll
+D:\c# Design Patterns\OOPS\Coupling\Coupling\obj\Debug\net9.0\refint\Coupling.dll
+D:\c# Design Patterns\OOPS\Coupling\Coupling\obj\Debug\net9.0\Coupling.pdb
+D:\c# Design Patterns\OOPS\Coupling\Coupling\obj\Debug\net9.0\Coupling.genruntimeconfig.cache
+D:\c# Design Patterns\OOPS\Coupling\Coupling\obj\Debug\net9.0\ref\Coupling.dll
