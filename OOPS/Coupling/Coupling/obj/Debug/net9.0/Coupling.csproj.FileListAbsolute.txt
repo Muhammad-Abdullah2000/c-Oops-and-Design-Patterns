@@ -12,3 +12,4 @@ D:\c# Design Patterns\OOPS\Coupling\Coupling\obj\Debug\net9.0\refint\Coupling.dl
 D:\c# Design Patterns\OOPS\Coupling\Coupling\obj\Debug\net9.0\Coupling.pdb
 D:\c# Design Patterns\OOPS\Coupling\Coupling\obj\Debug\net9.0\Coupling.genruntimeconfig.cache
 D:\c# Design Patterns\OOPS\Coupling\Coupling\obj\Debug\net9.0\ref\Coupling.dll
+D:\c# Design Patterns\OOPS\Coupling\Coupling\obj\Debug\net9.0\Coupling.sourcelink.json

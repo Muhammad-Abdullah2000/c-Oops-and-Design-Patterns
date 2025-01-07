@@ -7,10 +7,17 @@ namespace Coupling.src.OopPrincoples.Coupling
 {
     public class Order
     {
+
+        private readonly iNotification notificationService;
+
+        public Order(iNotification notificationService)
+        {
+            this.notificationService = notificationService;
+        }
+
         public void PlaceOrder()
         {
-            EmailSender emailSender = new EmailSender();
-            emailSender.SendEmail("Order Placed Successfully");
+            notificationService.SendNotification("Order Placed Successfully");
         }
     }
 }

@@ -5,11 +5,11 @@ using System.Threading.Tasks;
 
 namespace Coupling.src.OopPrincoples.Coupling
 {
-    public class EmailSender : iNotification
+    public class SmsService : iNotification
     {
         public void SendNotification(string message)
         {
-            System.Console.WriteLine("Sending email: " + message);
+            System.Console.WriteLine("Sms Notification is sent: " + message);
         }
     }
 }
