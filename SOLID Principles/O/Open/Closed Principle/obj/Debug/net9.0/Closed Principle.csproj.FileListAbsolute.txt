@@ -1,0 +1,15 @@
+D:\c# Design Patterns\SOLID Principles\O\Open\Closed Principle\bin\Debug\net9.0\Closed Principle.exe
+D:\c# Design Patterns\SOLID Principles\O\Open\Closed Principle\bin\Debug\net9.0\Closed Principle.deps.json
+D:\c# Design Patterns\SOLID Principles\O\Open\Closed Principle\bin\Debug\net9.0\Closed Principle.runtimeconfig.json
+D:\c# Design Patterns\SOLID Principles\O\Open\Closed Principle\bin\Debug\net9.0\Closed Principle.dll
+D:\c# Design Patterns\SOLID Principles\O\Open\Closed Principle\bin\Debug\net9.0\Closed Principle.pdb
+D:\c# Design Patterns\SOLID Principles\O\Open\Closed Principle\obj\Debug\net9.0\Closed Principle.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# Design Patterns\SOLID Principles\O\Open\Closed Principle\obj\Debug\net9.0\Closed Principle.AssemblyInfoInputs.cache
+D:\c# Design Patterns\SOLID Principles\O\Open\Closed Principle\obj\Debug\net9.0\Closed Principle.AssemblyInfo.cs
+D:\c# Design Patterns\SOLID Principles\O\Open\Closed Principle\obj\Debug\net9.0\Closed Principle.csproj.CoreCompileInputs.cache
+D:\c# Design Patterns\SOLID Principles\O\Open\Closed Principle\obj\Debug\net9.0\Closed Principle.sourcelink.json
+D:\c# Design Patterns\SOLID Principles\O\Open\Closed Principle\obj\Debug\net9.0\Closed Principle.dll
+D:\c# Design Patterns\SOLID Principles\O\Open\Closed Principle\obj\Debug\net9.0\refint\Closed Principle.dll
+D:\c# Design Patterns\SOLID Principles\O\Open\Closed Principle\obj\Debug\net9.0\Closed Principle.pdb
+D:\c# Design Patterns\SOLID Principles\O\Open\Closed Principle\obj\Debug\net9.0\Closed Principle.genruntimeconfig.cache
+D:\c# Design Patterns\SOLID Principles\O\Open\Closed Principle\obj\Debug\net9.0\ref\Closed Principle.dll
